@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# lannydev-projeto-lc-personalizadosevariedades-angular
+Front do projeto LC Personalizados e Variedades usando o Angular.
+>>>>>>> 1f1aaf30476521b8f6f140340976b98ac283b9e5
